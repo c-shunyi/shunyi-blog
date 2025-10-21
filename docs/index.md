@@ -6,13 +6,13 @@ hero:
   name: "舜意的博客小站"
   text: "欢迎来到我的博客小站"
   tagline: 在这里你可以了解到更加不一样的我哟「啾咪~」
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
 
 features:
   - title: Feature A

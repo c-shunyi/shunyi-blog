@@ -21,6 +21,21 @@ export default defineConfig({
         ]
       },
       {
+        text: '项目计划',
+        collapsed: true,  // 默认折叠状态
+        items: [
+          { text: '项目计划', link: '/project-intro' },
+        ]
+      },
+      {
+        text: '情侣记账本',
+        collapsed: true,  // 默认折叠状态
+        items: [
+          { text: '情侣记账本', link: '/cp-account-book' },
+          { text: '开发进度v1.0', link: '/cp-account-book-v1.0' },
+        ]
+      },
+      {
         text: '关于我',
         collapsed: true,  // 默认折叠状态
         items: [
