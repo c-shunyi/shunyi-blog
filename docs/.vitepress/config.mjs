@@ -14,15 +14,23 @@ export default defineConfig({
     sidebar: [
       {
         text: '文章',
+        collapsed: true,  // 默认折叠状态
         items: [
-          { text: '文章1', link: '/article1' },
-          { text: '文章2', link: '/article2' }
+          { text: '我的第一篇文章', link: '/article1' },
+          { text: 'VitePress 博客搭建全过程', link: '/article2' }
+        ]
+      },
+      {
+        text: '关于我',
+        collapsed: true,  // 默认折叠状态
+        items: [
+          { text: '个人介绍', link: '/about' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/c-shunyi' }
     ]
   }
 })
