@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "shunyi-blog"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "舜意的博客小站"
+  text: "欢迎来到我的博客小站"
+  tagline: 在这里你可以了解到更加不一样的我哟「啾咪~」
   actions:
     - theme: brand
       text: Markdown Examples
