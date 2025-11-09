@@ -11,39 +11,12 @@
 - 🌱 **成长感悟** - 工作和生活中的思考
 - 🎯 **项目分享** - 有趣的项目和想法
 
-## 技能栈
-
-### 前端技术
-- JavaScript / TypeScript
-- Vue.js / React
-- HTML / CSS
-- 小程序开发
-
-### 后端技术  
-- Node.js
-- Python
-- 数据库设计
-
-### 工具与环境
-- Git / GitHub
-- VS Code
-- Docker
-
-## 兴趣爱好
-
-- 🎮 游戏
-- 📚 阅读
-- 🎵 音乐
-- ⚽ 运动
-
 ## 联系方式
 
 如果你想和我交流，可以通过以下方式联系我：
 
-- 📧 邮箱：your-email@example.com
-- 💬 微信：your-wechat-id
-- 🐧 QQ：your-qq-number
-
+### 📧 联系方式
+- **邮箱**: c_shunyi@outlook.com
 ---
 
 感谢你的阅读！希望我们能成为朋友~ 「啾咪~」✨
