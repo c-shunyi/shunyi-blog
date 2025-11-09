@@ -35,9 +35,9 @@
 
 <div style="text-align: center; margin: 2rem 0;">
 
-**[📱 查看情侣记账本详情](./cp-account-book.md)**
+**[📱 查看情侣记账本详情](./pink-ledger/cp-account-book.md)**
 
-**[📋 查看开发进度 v1.0](./cp-account-book-v1.0.md)**
+**[📋 查看开发进度 v1.0](./pink-ledger/cp-account-book-v1.0.md)**
 
 </div>
 

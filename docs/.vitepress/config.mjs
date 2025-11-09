@@ -57,8 +57,12 @@ export default defineConfig({
         text: '情侣记账本',
         collapsed: true,  // 默认折叠状态
         items: [
-          { text: '情侣记账本', link: '/cp-account-book' },
-          { text: '开发进度v1.0', link: '/cp-account-book-v1.0' },
+          { text: '情侣记账本', link: '/pink-ledger/cp-account-book' },
+          { text: '后续开发', link: '/pink-ledger/cp-account-book-other' },
+          { text: '版本v1.3', link: '/pink-ledger/cp-account-book-v1.3' },
+          { text: '版本v1.2', link: '/pink-ledger/cp-account-book-v1.2' },
+          { text: '版本v1.1', link: '/pink-ledger/cp-account-book-v1.1' },
+          { text: '版本v1.0', link: '/pink-ledger/cp-account-book-v1.0' },
         ]
       },
       {
