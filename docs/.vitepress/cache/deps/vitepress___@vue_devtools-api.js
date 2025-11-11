@@ -460,7 +460,7 @@ function createHooks() {
   return new Hookable();
 }
 
-// node_modules/.pnpm/birpc@2.6.1/node_modules/birpc/dist/index.mjs
+// node_modules/.pnpm/birpc@2.8.0/node_modules/birpc/dist/index.mjs
 var { clearTimeout: clearTimeout2, setTimeout: setTimeout2 } = globalThis;
 var random = Math.random.bind(Math);
 
